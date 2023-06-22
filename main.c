@@ -5,10 +5,10 @@
 #include "monty.h"
 bus_t bus = {NULL, NULL, NULL, 0};
 /**
-* main - monty code interpreter
+* main - monty project code interpreter
 * @argc: number of arguments
-* @argv: monty file location
-* Return: 0 on success
+* @argv: monty project arguments
+* Return: 0
 */
 int main(int argc, char *argv[])
 {
